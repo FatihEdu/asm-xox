@@ -1,4 +1,4 @@
-### Test ederken önce 2'yi seçin:
+### Test ederken önce oyun modu olarak 2'yi seçin:
 X kazanması için en kısa yol: 1, 5, 2, 9, 3
 
 O kazanması için en kısa yol: 1, 5, 2, 3, 9, 7
